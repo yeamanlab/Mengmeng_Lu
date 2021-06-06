@@ -1,7 +1,7 @@
 # Mengmeng_Lu
 # Projects
 
-[RNA-analyses](https://github.com/Mengmeng-Lu/RNA-analyses)\
+[RNA-analyses](https://github.com/Mengmeng-Lu/RNAseq-analyses)\
 [GWAS on lodgepole pine](https://github.com/Mengmeng-Lu/GWAS-on-lodgepole-pine) 
 
 
